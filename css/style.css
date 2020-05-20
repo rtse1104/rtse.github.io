@@ -103,6 +103,13 @@ h1 { text-align: center;
 }
 /********** medium devices only **********/
 @media (min-width: 768px) {
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 0px;
+    font-size: 18px;
+    line-height: 20px;
+	}
 	.col-md-1,
 	.col-md-2,
 	.col-md-3,
