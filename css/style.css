@@ -8,7 +8,6 @@ body { background-color: #DFF7E6;
        background-color: #61122f;
        Color: #ffffff;
        font-family: Montserrat;
-	text-align: left;
 }
 
 /********** HEADER *****************/
@@ -61,6 +60,7 @@ div.section {
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    text-align: left;
 
   }	
 
