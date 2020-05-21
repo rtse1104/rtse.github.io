@@ -51,7 +51,15 @@ h1 { text-align: center;
   h2 {
     margin-bottom: 30px;
   }
-    
+  
+div.section {
+    display: block;
+    background-color: #000000;
+    padding: 5px 20px 15px 20px;
+    margin-bottom: 20px;
+
+  }	
+
   @media (max-width: 768px) {
     #navbar-menu {
       background-color: #f6b319;
@@ -62,13 +70,7 @@ h1 { text-align: center;
     margin: 15px auto;
 }
 	  
-div.section {
-    display: block;
-    background-color: #000000;
-    padding: 5px 20px 15px 20px;
-    margin-bottom: 20px;
-
-  }	  	  
+  	  
 
 .logo {
     display: inline-block;
