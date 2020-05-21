@@ -1,5 +1,6 @@
 * { 
     box-sizing: border-box;
+    text-align: center;
 }
 
 body { background-color: #DFF7E6;
@@ -7,6 +8,7 @@ body { background-color: #DFF7E6;
        background-color: #61122f;
        Color: #ffffff;
        font-family: Montserrat;
+	text-align: left;
 }
 
 /********** HEADER *****************/
@@ -57,6 +59,8 @@ div.section {
     background-color: #000000;
     padding: 5px 20px 15px 20px;
     margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
   }	
 
